@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\university\\AP\\c#\\takalif\\tamrin seri 3\\1\\1.csproj": {}
+  },
+  "projects": {
+    "D:\\university\\AP\\c#\\takalif\\tamrin seri 3\\1\\1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\university\\AP\\c#\\takalif\\tamrin seri 3\\1\\1.csproj",
+        "projectName": "1",
+        "projectPath": "D:\\university\\AP\\c#\\takalif\\tamrin seri 3\\1\\1.csproj",
+        "packagesPath": "C:\\Users\\morgan\\.nuget\\packages\\",
+        "outputPath": "D:\\university\\AP\\c#\\takalif\\tamrin seri 3\\1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\morgan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net3.1.406"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net3.1.406": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net3.1.406": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

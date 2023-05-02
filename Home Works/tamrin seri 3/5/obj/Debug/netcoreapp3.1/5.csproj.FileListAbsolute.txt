@@ -1,0 +1,13 @@
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.exe
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.deps.json
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.dll
+D:\university\AP\c#\takalif\tamrin seri 3\5\bin\Debug\netcoreapp3.1\5.pdb
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.csprojAssemblyReference.cache
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.dll
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.pdb
+D:\university\AP\c#\takalif\tamrin seri 3\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache

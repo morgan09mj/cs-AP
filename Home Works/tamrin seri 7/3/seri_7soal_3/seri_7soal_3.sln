@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seri_7soal_3", "seri_7soal_3.csproj", "{94CB7BBA-C1CB-4B0E-8217-26AAAAAC8FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CB7BBA-C1CB-4B0E-8217-26AAAAAC8FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CB7BBA-C1CB-4B0E-8217-26AAAAAC8FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CB7BBA-C1CB-4B0E-8217-26AAAAAC8FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CB7BBA-C1CB-4B0E-8217-26AAAAAC8FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB0401E-0FD6-4C79-BDCF-B5BB3C89C49C}
+	EndGlobalSection
+EndGlobal

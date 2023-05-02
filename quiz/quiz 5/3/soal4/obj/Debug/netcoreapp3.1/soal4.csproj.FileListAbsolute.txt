@@ -1,0 +1,13 @@
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.exe
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.deps.json
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.runtimeconfig.json
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.runtimeconfig.dev.json
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.dll
+D:\university\AP\c#\quiz\quiz 5\3\soal4\bin\Debug\netcoreapp3.1\soal4.pdb
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.csprojAssemblyReference.cache
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.AssemblyInfoInputs.cache
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.AssemblyInfo.cs
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.csproj.CoreCompileInputs.cache
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.dll
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.pdb
+D:\university\AP\c#\quiz\quiz 5\3\soal4\obj\Debug\netcoreapp3.1\soal4.genruntimeconfig.cache

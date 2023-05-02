@@ -1,0 +1,20 @@
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.csprojAssemblyReference.cache
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.CoreCompileInputs.cache
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.csprojAssemblyReference.cache
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.CoreCompileInputs.cache
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+D:\university\AP\c#\takalif\tamrin seri 7\3\zip\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.pdb

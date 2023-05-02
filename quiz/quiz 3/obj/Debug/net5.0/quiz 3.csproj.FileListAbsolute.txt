@@ -1,0 +1,5 @@
+D:\university\AP\c#\emtehan\quiz 3\obj\Debug\net5.0\quiz 3.csprojAssemblyReference.cache
+D:\university\AP\c#\emtehan\quiz 3\obj\Debug\net5.0\quiz 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\AP\c#\emtehan\quiz 3\obj\Debug\net5.0\quiz 3.AssemblyInfoInputs.cache
+D:\university\AP\c#\emtehan\quiz 3\obj\Debug\net5.0\quiz 3.AssemblyInfo.cs
+D:\university\AP\c#\emtehan\quiz 3\obj\Debug\net5.0\quiz 3.csproj.CoreCompileInputs.cache

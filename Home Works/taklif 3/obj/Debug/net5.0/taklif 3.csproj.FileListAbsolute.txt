@@ -1,0 +1,16 @@
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.exe
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.deps.json
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.runtimeconfig.json
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.runtimeconfig.dev.json
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.dll
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\ref\taklif 3.dll
+D:\university2\AP\c#\takalif\taklif 3\bin\Debug\net5.0\taklif 3.pdb
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.csprojAssemblyReference.cache
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.AssemblyInfoInputs.cache
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.AssemblyInfo.cs
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.csproj.CoreCompileInputs.cache
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.dll
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\ref\taklif 3.dll
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.pdb
+D:\university2\AP\c#\takalif\taklif 3\obj\Debug\net5.0\taklif 3.genruntimeconfig.cache

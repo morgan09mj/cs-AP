@@ -1,0 +1,16 @@
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.exe
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.deps.json
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.runtimeconfig.json
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.runtimeconfig.dev.json
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.dll
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\ref\33.dll
+D:\university\AP\c#\quiz\quiz 5\33\bin\Debug\net5.0\33.pdb
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.csprojAssemblyReference.cache
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.AssemblyInfoInputs.cache
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.AssemblyInfo.cs
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.csproj.CoreCompileInputs.cache
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.dll
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\ref\33.dll
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.pdb
+D:\university\AP\c#\quiz\quiz 5\33\obj\Debug\net5.0\33.genruntimeconfig.cache

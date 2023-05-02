@@ -1,0 +1,16 @@
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.exe
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.deps.json
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.runtimeconfig.json
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.runtimeconfig.dev.json
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.dll
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\ref\6.dll
+D:\university2\AP\c#\takalif\tamrin sri 1\6\bin\Debug\net5.0\6.pdb
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.csprojAssemblyReference.cache
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.AssemblyInfoInputs.cache
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.AssemblyInfo.cs
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.csproj.CoreCompileInputs.cache
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.dll
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\ref\6.dll
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.pdb
+D:\university2\AP\c#\takalif\tamrin sri 1\6\obj\Debug\net5.0\6.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+Hello*everyone
+My*name*is*mohammad*sadegh*mousa*zade
+Today*I*want*to*talk*about*the*C*++*programming*language.
+C*++*is*a*relatively*difficult*programming*language*for*people*who*are*just*starting*out,
+But*learning*it*properly*is*more*rewarding*than*learning*many*other*languages.
+In*2020,*The*fourth*rank*was*obtained*by*C*++*programming*languages*But*does*not*mean*that*C*++*is*not*a*good*language.
